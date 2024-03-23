@@ -53,6 +53,35 @@
     clear: both
 }
 
+@font-face {
+    font-family: 'Dela Gothic One';
+    src: url('../fonts/DelaGothicOne-Regular.ttf') format('truetype');
+}
+
+.btn-area {
+    display: flex; /* Align items horizontally */
+    align-items: center; /* Center them vertically */
+    /* justify-content: center; Center the items horizontally if needed */
+}
+
+.store-badge {
+    height: 50px; /* Match the button's height */
+    margin-left: 10px; /* Add some space between the button and the image */
+}
+
+
+.slider-nner h2 {
+    font-family: 'Dela Gothic One', sans-serif;
+}
+
+.slider-nner p {
+    font-family: 'Dela Gothic One', sans-serif;
+}
+
+.download-now {
+    font-family: 'Dela Gothic One', sans-serif;
+}
+
 ::-moz-selection {
     background: #00b0ff;
     color: #fff;
