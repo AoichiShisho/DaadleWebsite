@@ -190,6 +190,9 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .logo a {
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 36px;
+    color: #fff;
     display: inline-block;
 }
 
@@ -208,6 +211,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .main-menu nav ul li a {
+    font-family: 'Dela Gothic One', sans-serif;
     font-size: 14px;
     font-weight: 500;
     color: #fff;
@@ -424,6 +428,7 @@ font-family: 'Open Sans', sans-serif;
 .about-content {}
 
 .about-content span {
+    font-family: 'Dela Gothic One', sans-serif;
     font-size: 18px;
     font-weight: 400;
     letter-spacing: 0;
@@ -431,6 +436,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .about-content h2 {
+    font-family: 'Dela Gothic One', sans-serif;
     font-size: 30px;
     font-weight: 500;
     color: #272727;
@@ -488,6 +494,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .section-title h2 {
+    font-family: 'Dela Gothic One', sans-serif;
     font-size: 30px;
     font-weight: 500;
     color: #fff;
@@ -500,6 +507,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .section-title p {
+    font-family: 'Dela Gothic One', sans-serif;
     color: #fff;
 }
 
