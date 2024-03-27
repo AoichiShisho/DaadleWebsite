@@ -811,6 +811,7 @@ END Subscribe Area
 }
 
 .team-item img {
+    height: 320px;
     max-width: 100%;
 }
 
@@ -1081,6 +1082,10 @@ END Letest Blog
     height: 600px;
 }
 
+#nomap {
+    height: 400px;
+}
+
 /*===========================
 END Map Area
 ===========================*/
@@ -1113,7 +1118,7 @@ END Map Area
 }
 
 .contact-address {
-    flex-basis: calc(100% * (4/12));
+    flex-basis: calc(100% * (12/12));
     padding-left: 30px;
 }
 
@@ -1160,7 +1165,7 @@ h4.contact-title {
 }
 
 .contact-form {
-    flex-basis: calc(100% * (8/12) - 30px);
+    flex-basis: calc(100% * (0/12) - 30px);
     padding-left: 70px;
     padding-right: 70px;
 }
